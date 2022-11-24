@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: Alphaaio QR Code Generator API</h1>
 
 ## :memo: Descrição
-Este projeto foi gerado com Nodejs e Express versão 14.1.0
+Este projeto foi gerado com Nodejs e Express versão 
 
 ## :books: Funcionalidades
 * Gerar QR Codes de diversas url's
